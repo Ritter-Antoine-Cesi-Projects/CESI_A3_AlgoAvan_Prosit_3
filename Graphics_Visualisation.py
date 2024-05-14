@@ -1,8 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-xmax = 10
-ymax = 10
+xmax = 25
+ymax = xmax
 plt.plot(xmax, ymax)
 
 # On trace la droite x + y <= 100
